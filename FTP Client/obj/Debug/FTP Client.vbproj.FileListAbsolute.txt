@@ -1,0 +1,9 @@
+C:\Users\Anurag\Documents\Visual Studio 2012\FTP Client\FTP Client\bin\Debug\FTP Client.exe
+C:\Users\Anurag\Documents\Visual Studio 2012\FTP Client\FTP Client\bin\Debug\FTP Client.pdb
+C:\Users\Anurag\Documents\Visual Studio 2012\FTP Client\FTP Client\bin\Debug\FTP Client.xml
+C:\Users\Anurag\Documents\Visual Studio 2012\FTP Client\FTP Client\obj\Debug\FTP_Client.Form1.resources
+C:\Users\Anurag\Documents\Visual Studio 2012\FTP Client\FTP Client\obj\Debug\FTP_Client.Resources.resources
+C:\Users\Anurag\Documents\Visual Studio 2012\FTP Client\FTP Client\obj\Debug\FTP Client.vbproj.GenerateResource.Cache
+C:\Users\Anurag\Documents\Visual Studio 2012\FTP Client\FTP Client\obj\Debug\FTP Client.exe
+C:\Users\Anurag\Documents\Visual Studio 2012\FTP Client\FTP Client\obj\Debug\FTP Client.xml
+C:\Users\Anurag\Documents\Visual Studio 2012\FTP Client\FTP Client\obj\Debug\FTP Client.pdb
